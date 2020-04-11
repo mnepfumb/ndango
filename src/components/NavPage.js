@@ -11,7 +11,7 @@ function NavPage() {
   return (
   <div>
     <Navbar fixed="top"className="nav-color" variant="dark">
-      <Navbar.Brand href="/">
+      <Navbar.Brand href="/ndango/">
         {/* <Image src="../public/logo.png"/> */}
         <img
           alt="Ndango Trading Enterprise"
@@ -29,10 +29,10 @@ function NavPage() {
         <Nav.Link href="/about" >ABOUT US</Nav.Link>
         <Nav.Link href="/" >PROJECTS</Nav.Link>
         <Nav.Link href="/contact" >CONTACTS</Nav.Link> */}
-        <Nav.Item><NavLink className="nav-link" exact to="/">HOME</NavLink></Nav.Item>
-        <Nav.Item><NavLink className="nav-link" exact to="/about">ABOUT US</NavLink></Nav.Item>
-        <Nav.Item><NavLink className="nav-link" exact to="/projects">PROJECTS</NavLink></Nav.Item>
-        <Nav.Item><NavLink className="nav-link" exact to="/contact">CONTACTS</NavLink></Nav.Item>
+        <Nav.Item><NavLink className="nav-link" exact strict to="/ndango/">HOME</NavLink></Nav.Item>
+        <Nav.Item><NavLink className="nav-link" exact strict to="/ndango/about">ABOUT US</NavLink></Nav.Item>
+        <Nav.Item><NavLink className="nav-link" exact strict to="/ndango/projects">PROJECTS</NavLink></Nav.Item>
+        <Nav.Item><NavLink className="nav-link" exact strict to="/ndango/contact">CONTACTS</NavLink></Nav.Item>
       </Nav>
     </Navbar>
   </div>

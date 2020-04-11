@@ -16,10 +16,10 @@ function App() {
         <NavPage />
         {/* https://www.youtube.com/watch?v=Law7wfdg_ls */}
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/projects" component={Projects} />
+          <Route path="/ndango/" exact strict component={Home} />
+          <Route path="/ndango/about" exact strict component={About} />
+          <Route path="/ndango/contact" exact strict component={Contact} />
+          <Route path="/ndango/projects" exact strict component={Projects} />
         </Switch>
         <Footer />
       </div>
