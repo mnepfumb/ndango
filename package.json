@@ -2,7 +2,7 @@
   "name": "ndango",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://mnepfumb/github.io/ndango",
+  "homepage" : "http://mnepfumb.github.io/ndango",
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "@material-ui/icons": "^4.9.1",
