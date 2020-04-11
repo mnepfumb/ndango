@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/github.io/ndango/static/css/main.1e27418c.chunk.css",
-    "main.js": "/github.io/ndango/static/js/main.3ee6424d.chunk.js",
-    "main.js.map": "/github.io/ndango/static/js/main.3ee6424d.chunk.js.map",
-    "runtime-main.js": "/github.io/ndango/static/js/runtime-main.d3ed8fb0.js",
-    "runtime-main.js.map": "/github.io/ndango/static/js/runtime-main.d3ed8fb0.js.map",
-    "static/css/2.de424728.chunk.css": "/github.io/ndango/static/css/2.de424728.chunk.css",
-    "static/js/2.2d90e3f9.chunk.js": "/github.io/ndango/static/js/2.2d90e3f9.chunk.js",
-    "static/js/2.2d90e3f9.chunk.js.map": "/github.io/ndango/static/js/2.2d90e3f9.chunk.js.map",
-    "index.html": "/github.io/ndango/index.html",
-    "precache-manifest.db0ac721e7fa7f7518cbef2419b16dcc.js": "/github.io/ndango/precache-manifest.db0ac721e7fa7f7518cbef2419b16dcc.js",
-    "service-worker.js": "/github.io/ndango/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/github.io/ndango/static/css/2.de424728.chunk.css.map",
-    "static/css/main.1e27418c.chunk.css.map": "/github.io/ndango/static/css/main.1e27418c.chunk.css.map",
-    "static/js/2.2d90e3f9.chunk.js.LICENSE.txt": "/github.io/ndango/static/js/2.2d90e3f9.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/github.io/ndango/static/media/logo.0efaadf1.png"
+    "main.css": "/ndango/static/css/main.1e27418c.chunk.css",
+    "main.js": "/ndango/static/js/main.d3c751ff.chunk.js",
+    "main.js.map": "/ndango/static/js/main.d3c751ff.chunk.js.map",
+    "runtime-main.js": "/ndango/static/js/runtime-main.d150ee66.js",
+    "runtime-main.js.map": "/ndango/static/js/runtime-main.d150ee66.js.map",
+    "static/css/2.de424728.chunk.css": "/ndango/static/css/2.de424728.chunk.css",
+    "static/js/2.2d90e3f9.chunk.js": "/ndango/static/js/2.2d90e3f9.chunk.js",
+    "static/js/2.2d90e3f9.chunk.js.map": "/ndango/static/js/2.2d90e3f9.chunk.js.map",
+    "index.html": "/ndango/index.html",
+    "precache-manifest.da58532c2db6fc25138bae7130b043de.js": "/ndango/precache-manifest.da58532c2db6fc25138bae7130b043de.js",
+    "service-worker.js": "/ndango/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ndango/static/css/2.de424728.chunk.css.map",
+    "static/css/main.1e27418c.chunk.css.map": "/ndango/static/css/main.1e27418c.chunk.css.map",
+    "static/js/2.2d90e3f9.chunk.js.LICENSE.txt": "/ndango/static/js/2.2d90e3f9.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/ndango/static/media/logo.0efaadf1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3ed8fb0.js",
+    "static/js/runtime-main.d150ee66.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.2d90e3f9.chunk.js",
     "static/css/main.1e27418c.chunk.css",
-    "static/js/main.3ee6424d.chunk.js"
+    "static/js/main.d3c751ff.chunk.js"
   ]
 }
