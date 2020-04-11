@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ndango/static/css/main.1e27418c.chunk.css",
-    "main.js": "/ndango/static/js/main.d3c751ff.chunk.js",
-    "main.js.map": "/ndango/static/js/main.d3c751ff.chunk.js.map",
+    "main.js": "/ndango/static/js/main.7cce5a5b.chunk.js",
+    "main.js.map": "/ndango/static/js/main.7cce5a5b.chunk.js.map",
     "runtime-main.js": "/ndango/static/js/runtime-main.d150ee66.js",
     "runtime-main.js.map": "/ndango/static/js/runtime-main.d150ee66.js.map",
     "static/css/2.de424728.chunk.css": "/ndango/static/css/2.de424728.chunk.css",
     "static/js/2.2d90e3f9.chunk.js": "/ndango/static/js/2.2d90e3f9.chunk.js",
     "static/js/2.2d90e3f9.chunk.js.map": "/ndango/static/js/2.2d90e3f9.chunk.js.map",
     "index.html": "/ndango/index.html",
-    "precache-manifest.da58532c2db6fc25138bae7130b043de.js": "/ndango/precache-manifest.da58532c2db6fc25138bae7130b043de.js",
+    "precache-manifest.1e099f542c0357bb991c8e7bfc7fb8a4.js": "/ndango/precache-manifest.1e099f542c0357bb991c8e7bfc7fb8a4.js",
     "service-worker.js": "/ndango/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/ndango/static/css/2.de424728.chunk.css.map",
     "static/css/main.1e27418c.chunk.css.map": "/ndango/static/css/main.1e27418c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.2d90e3f9.chunk.js",
     "static/css/main.1e27418c.chunk.css",
-    "static/js/main.d3c751ff.chunk.js"
+    "static/js/main.7cce5a5b.chunk.js"
   ]
 }

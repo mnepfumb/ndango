@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d6c4932a3efa6630d7c221447c3fdec",
+    "revision": "ae4f3da1c3932d8e514a9b108b875ce4",
     "url": "/ndango/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ndango/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "92c06139102da7a2284d",
+    "revision": "4979e497cf3666a404f2",
     "url": "/ndango/static/css/main.1e27418c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ndango/static/js/2.2d90e3f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92c06139102da7a2284d",
-    "url": "/ndango/static/js/main.d3c751ff.chunk.js"
+    "revision": "4979e497cf3666a404f2",
+    "url": "/ndango/static/js/main.7cce5a5b.chunk.js"
   },
   {
     "revision": "134d4880702367539169",
